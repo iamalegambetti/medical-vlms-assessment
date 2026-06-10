@@ -1,4 +1,4 @@
-# Cross-Modal Alignment Evaluation — CIKM Experiments
+# Cross-Modal Alignment Evaluation
 
 Code accompanying the paper on cross-modal alignment metrics for vision-language models (VLMs), with a focus on natural vs. medical imaging domains.
 
